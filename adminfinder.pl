@@ -147,9 +147,9 @@ $response->content =~ /passe/ ||
 $response->content =~ /P\/W/ || 
 $response->content =~ /Admin Password/
 ){
-print " \n [+] KETEMU NIH ANJING -> $final\n\n";
+print " \n [+] KETEMU NIH SAYANG :* -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
@@ -209,7 +209,7 @@ $response->content =~ /Admin Password/
 ){
 print " \n [+] KETEMU NIH ANJING -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
@@ -266,9 +266,9 @@ $response->content =~ /passe/ ||
 $response->content =~ /P\/W/ || 
 $response->content =~ /Admin Password/
 ){
-print " \n [+] KETEMU NIH ANJING -> $final\n\n";
+print " \n [+] KETEMU NIH SAYANG :* -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
@@ -326,9 +326,9 @@ $response->content =~ /passe/ ||
 $response->content =~ /P\/W/ || 
 $response->content =~ /Admin Password/
 ){
-print " \n [+] KETEMU NIH ANJING -> $final\n\n";
+print " \n [+] KETEMU NIH SAYANG :* -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
@@ -385,9 +385,9 @@ $response->content =~ /passe/ ||
 $response->content =~ /P\/W/ || 
 $response->content =~ /Admin Password/
 ){
-print " \n [+] KETEMU NIH ANJING -> $final\n\n";
+print " \n [+] KETEMU NIH SAYANG :* -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
@@ -445,9 +445,9 @@ $response->content =~ /passe/ ||
 $response->content =~ /P\/W/ || 
 $response->content =~ /Admin Password/
 ){
-print " \n [+] KETEMU NIH ANJING -> $final\n\n";
+print " \n [+] KETEMU NIH SAYANG :* -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
