@@ -5,11 +5,11 @@ use LWP::UserAgent;
 
 print "\n";
 print "\t ===========================================\n";
-print "\t|      Admin Page Finder (4WSec Edition)    |\n";
+print "\t|      Admin Page Finder (ACT Edition)      |\n";
 print "\t|                                           |\n";
-print "\t|               Recoded By 4WSec            |\n";
+print "\t|               Coded By 4WSec              |\n";
 print "\t|                                           |\n";
-print "\t|                     ./                    |\n";
+print "\t|            www.anoncyberteam.org          |\n";
 print "\t|                                           |\n";
 print "\t|               ANON CYBER TEAM             |\n";
 print "\t ===========================================\n";
@@ -88,9 +88,9 @@ $response->content =~ /passe/ ||
 $response->content =~ /P\/W/ || 
 $response->content =~ /Admin Password/
 ){
-print " \n [+] KETEMU NIH ANJING -> $final\n\n";
+print " \n [+] KETEMU NIH SAYANG :* -> $final\n\n";
 }else{
-print "[-] GAK KETEMU ANJING <- $final\n";
+print "[-] GAK KETEMU SAYANG :'( <- $final\n";
 }
 }
 }
